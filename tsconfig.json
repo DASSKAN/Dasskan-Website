@@ -21,6 +21,6 @@
     "jsx": "react-jsx"
   },
   "include": [
-    "dasskan_website"
+    "dasskan_website.tsx"
   ]
 }
